@@ -1,0 +1,3 @@
+[submodule "src/third_party/B-Lang-org/bsc"]
+	path = src/third_party/B-Lang-org/bsc
+	url = https://github.com/B-Lang-org/bsc
